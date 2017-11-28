@@ -1,0 +1,1 @@
+(function(){var B=document.createElement("script"),A=document.getElementsByTagName("script")[0];B.async=true;B.src=(document.location.protocol=="https:"?"https://sb":"http://b")+".scorecardresearch.com/beacon.js";A.parentNode.insertBefore(B,A)})();
